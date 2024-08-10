@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 👨‍💻 经历：<a href="https://w1w9cjx4zs8.feishu.cn/wiki/Y9D9w0D4kiyWrTkpC8ycZ0hPnob?from=from_copylink" target="_blank">关于我，一位「大专文科生」的互联网十年之路！</a>
 - 😺 视频：<a href="https://v.douyin.com/irjW2FMq/" target="_blank">抖音 测试划水老师傅</a> | 微信视频号、B站、小红书、知乎 测试划水老师傅
 - 🌱 干货：<a href="https://github.com/moyu178666/moyu178666/blob/main/wechat_mp.png" target="_blank">公众号『 测试划水老师傅 』</a>
-- 📚 免费测试资源：<a href="https://github.com/liyupi/codefather" target="_blank">老师傅的测试宝典</a> | <a href="https://yuyuanweb.feishu.cn/wiki/KSrdwPbuPiVjuvkPvd6cWLKgnCg" target="_blank">鱼皮原创文章汇总</a>
-- 👭 软件测试导航：<a target="_blank" href="https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde">国内 TOP 级编程学习圈，帮你学好编程、做出项目、提升求职竞争力</a>
+<!--- 📚 免费测试资源：<a href="https://github.com/liyupi/codefather" target="_blank">老师傅的测试宝典</a> | <a href="https://yuyuanweb.feishu.cn/wiki/KSrdwPbuPiVjuvkPvd6cWLKgnCg" target="_blank">鱼皮原创文章汇总</a>
+<!--- 👭 软件测试导航：<a target="_blank" href="https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde">国内 TOP 级编程学习圈，帮你学好编程、做出项目、提升求职竞争力</a>
 
 <!--
 ## 我是程序员鱼皮 🐟
